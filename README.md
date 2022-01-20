@@ -20,7 +20,7 @@ $customName		作者评论ID      如果此值为空，则停用检测
  ```
 
 ## 获取Bark token
-- 适合iPhone的客户端：[App Store 商店](https://itunes.apple.com/cn/app/bark-customed-notifications/id1403753865 "App Store 商店")、
+- 适合iPhone的客户端：[App Store 商店](https://itunes.apple.com/cn/app/bark-customed-notifications/id1403753865 "App Store 商店")
 - 适合Android的客户端：[Chrome 商店](https://chrome.google.com/webstore/detail/bark/pmlkbdbpglkgbgopghdcmohdcmladeii "Chrome 商店")
 - Bark[客户端](https://github.com/Finb/Bark "客户端")和[服务端](https://github.com/Finb/go-tools "服务端")均已开源，也可以自己部署
 - 安装后打开bark App，将红线上方的token填入变量```$bark_key = ""```里面
