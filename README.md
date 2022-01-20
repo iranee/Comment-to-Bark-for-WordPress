@@ -27,6 +27,9 @@ $customName		作者评论ID      如果此值为空，则停用检测
 
 [![](https://cheen.cn/wp-content/uploads/2022/01/bark.jpg)](https://cheen.cn/wp-content/uploads/2022/01/bark.jpg)
 
+## 通知示意
+[!](https://cheen.cn/wp-content/cache/theme-thumbnail/972d5c32a9f2628acb4e93828cd3ce26-680-170.jpg)
+
 
 ## 如何使用
 将Comment_to_Bark.php下载到主题目录，编辑functions.php，在最后一行加入
