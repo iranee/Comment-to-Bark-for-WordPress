@@ -13,7 +13,7 @@
  * $bark_group		bark 群组
  * $bark_goto_url	bark 文章链接
  * $bark_sound		bark 推送声音
- * $bark_archive	bark 保存信息	1-启用 0-停用 启动后客户端自动保存推送信息
+ * $bark_archive	bark 保存信息	1-启用 0-停用 启用后客户端自动保存推送信息
  * $isMyself		检测作者ID      1-启用 0-停用 启用后当评论者为 $customName 时不通知 
  * $customName		作者评论ID      如果此值为空，则停用检测
  * 
