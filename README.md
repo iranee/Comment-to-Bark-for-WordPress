@@ -25,10 +25,10 @@ $customName		作者评论ID      如果此值为空，则停用检测
 - Bark[客户端](https://github.com/Finb/Bark "客户端")和[服务端](https://github.com/Finb/go-tools "服务端")均已开源，也可以自己部署
 - 安装后打开bark App，将红线上方的token填入变量```$bark_key = ""```里面
 
-[![](https://cheen.cn/wp-content/uploads/2022/01/bark.jpg)](https://cheen.cn/wp-content/uploads/2022/01/bark.jpg)
+![](https://cheen.cn/wp-content/uploads/2022/01/bark.jpg)
 
 ## 通知示意
-[!](https://cheen.cn/wp-content/cache/theme-thumbnail/972d5c32a9f2628acb4e93828cd3ce26-680-170.jpg)
+![](https://cheen.cn/wp-content/cache/theme-thumbnail/972d5c32a9f2628acb4e93828cd3ce26-680-170.jpg)
 
 
 ## 如何使用
