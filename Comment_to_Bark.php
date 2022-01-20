@@ -76,7 +76,5 @@ add_action('comment_post', 'comment_bark_notify');
 function comment_bark_notify($comment_id) 
 {
     $comment = get_comment($comment_id);
-    $parent_id = $comment->comment_parent ? $comment->comment_parent : '';
-    $spam_confirmed = $comment->comment_approved;
-	bark_push_msg($comment, get_the_title($comment->comment_post_ID));
+    bark_push_msg($comment, get_the_title($comment->comment_post_ID));
 }
