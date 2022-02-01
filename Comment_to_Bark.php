@@ -69,10 +69,10 @@ function bark_push_msg($comment, $post_name)
 
         $context  = stream_context_create($opts);
         $result = file_get_contents($bark.$bark_key, false, $context);
-        return  $comment;
+        return $comment;
 }
 
-add_action('comment_post', 'comment_bark_notify');
+add_action('comment_post', 'comment_bark_notify', 10, 2 );
 function comment_bark_notify($comment_id) 
 {
     $comment = get_comment($comment_id);
